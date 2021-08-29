@@ -1,5 +1,5 @@
-<h4 align="center">akıl sağlığını kaybet</h4>
-<h3 align="center">kaybet</h3>
+<p4 align="center">akıl sağlığını kaybet</p4>
+<p3 align="center">kaybet</p3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
